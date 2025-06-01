@@ -1,0 +1,5 @@
+# Setting for VS Code Java project management
+/.vscode
+
+# Compiled Java files
+/bin
